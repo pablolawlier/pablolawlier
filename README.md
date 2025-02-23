@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Pablo Henrique Rodrigues 👋
 
-<!--
-**pablolawlier/pablolawlier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend apaixonado por **PHP**
 
-Here are some ideas to get you started:
+👨‍💻 Atualmente, sou focado em desenvolver soluções escaláveis e robustas utilizando **PHP** e tecnologias como **MySQL**,  entre outras. Tenho experiência criando APIs RESTful e otimizando sistemas para garantir um bom desempenho e segurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tecnologias que eu uso e adoro**:
+- **PHP** (7.x, 8.x)
+- **Laravel** e **Lumen**
+- **MySQL**
+- **Git**, **GitHub**
+
+🎯 **O que me motiva**:
+- Criar soluções eficientes e de alta performance
+- Melhorar minhas habilidades com **arquitetura de software** e **design patterns**
+- Colaborar em projetos **Open Source**
+
+## 🔗 Conecte-se comigo
+- **LinkedIn**: [@]()
+- **Twitter**: [@]()
+- **Portfólio**: [Pablo](https://pablolawlier.github.io/page2/)
+
+Formado em Analise e Desenvolvimento de Sistemas
+Atualmente trabalho no @Atacadão S.A como Axuliar de Suporte em Informatica.
+
+---
+
+💡 Estou sempre aberto a novos desafios e aprendizados! Vamos conversar e criar algo incrível juntos. 🚀
