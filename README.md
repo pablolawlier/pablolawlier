@@ -17,7 +17,7 @@ Desenvolvedor Backend apaixonado por **PHP**
 
 ## 🔗 Conecte-se comigo
 - **LinkedIn**: [@]()
-- **Twitter**: [@]()
+- **Twitter**: [@](https://www.linkedin.com/in/pablo-henrique-516698253/)
 - **Portfólio**: [Pablo](https://port-app-steel.vercel.app/)
 
 Formado em Analise e Desenvolvimento de Sistemas
